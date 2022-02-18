@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niconator
-- 👀 I’m interested in Gaming and E=sports events
+- 👀 I’m interested in Gaming and E-sports events
 - 🌱 I’m currently learning How to work with GitHub and afterwarts HTML en CSS and also a little bit op PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
